@@ -46,22 +46,13 @@ Scholarships & Grants
 Projects
 ======
 Exoplanet Research around Evolved Binary Star Systems (Apr 2023 – Apr 2026)
-* The project focuses on investigating exoplanets around evolved binary star systems, particularly those in the common-
-envelope phase, by utilizing photometric observations and the Eclipse Timing Variation (ETV) method. As part of the
-research, I conducted detailed photometric observations using 80-cm telescope (T80) in Kreiken Observatory and 100-
-cm telescope (T100) in TÜBİTAK National Observatory and analyzed the resulting light curves to study the dynamics
-of these systems. Additionally, I explored the physical properties of the binaries to understand potential mechanisms
-behind second-generation planet formation.
+* The project focuses on investigating exoplanets around evolved binary star systems, particularly those in the common- envelope phase, by utilizing photometric observations and the Eclipse Timing Variation (ETV) method. As part of the research, I conducted detailed photometric observations using 80-cm telescope (T80) in Kreiken Observatory and 100-cm telescope (T100) in TÜBİTAK National Observatory and analyzed the resulting light curves to study the dynamics of these systems. Additionally, I explored the physical properties of the binaries to understand potential mechanisms behind second-generation planet formation.
+
 TÜBİTAK Project No: 122F358, TÜBİTAK T100 Project No: 2049, Project Instructor: Assoc. Prof. Dr. Özgür Baştürk
 
 Transit Timing Variations Analyses of Orbital Decay Candidate Objects (Apr 2023 – Feb 2026)
-* As an active researcher and observer in this project, I focused on investigating hot-Jupiters exhibiting orbital decay
-behavior through Transit Timing Variations (TTV) analysis, aiming to understand the tidal mechanisms driving these
-phenomena. I designed and executed observation plans, conducted photometric observations using the 80-cm (T80)
-and 100-cm (T100) telescopes, and processed the data to identify potential orbital decay candidates. Utilizing Python
-and advanced statistical methods, I performed detailed TTV analyses and interpreted the results in the context of
-magnetohydrodynamics, fluid dynamics, and orbital mechanics. The findings are planned to be shared through
-publications in peer-reviewed journals and presentations at international conferences.
+* As an active researcher and observer in this project, I focused on investigating hot-Jupiters exhibiting orbital decay behavior through Transit Timing Variations (TTV) analysis, aiming to understand the tidal mechanisms driving these phenomena. I designed and executed observation plans, conducted photometric observations using the 80-cm (T80) and 100-cm (T100) telescopes, and processed the data to identify potential orbital decay candidates. Utilizing Python and advanced statistical methods, I performed detailed TTV analyses and interpreted the results in the context of magnetohydrodynamics, fluid dynamics, and orbital mechanics. The findings are planned to be shared through publications in peer-reviewed journals and presentations at international conferences.
+
 TÜBİTAK Project No: 122F293, TÜBİTAK T100 Project No: 2148 & 2182, Project Instructor: Prof. Dr. Selim Osman
 Selam
 
