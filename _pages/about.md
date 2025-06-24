@@ -38,3 +38,7 @@ Upon concluding my MSc studies, I joined forces with my dear friends Türker Bak
 Each piece captures the essence and emotions inspired by the major celestial bodies that surround us.
 
 Discover the sounds of our cosmic neighborhood by listening to the album on Spotify below.
+
+<div align="center">
+<iframe style="border-radius:12px" src="https://open.spotify.com/intl-tr/album/0U4nNmqcJLm84IyuPdQauu?si=hbxlhcIMT3qsC41NNXWFVA" width="100%" height="152" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
