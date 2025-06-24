@@ -40,5 +40,5 @@ Each piece captures the essence and emotions inspired by the major celestial bod
 Discover the sounds of our cosmic neighborhood by listening to the album on Spotify below.
 
 <div align="center">
-<iframe style="border-radius:12px" src="https://open.spotify.com/intl-tr/album/0U4nNmqcJLm84IyuPdQauu?si=hbxlhcIMT3qsC41NNXWFVA" width="100%" height="152" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/playlist/4AdX5W3WUQ2ASzecS7Dg5F?si=42cace6f93d14618" width="80%" height="45" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
