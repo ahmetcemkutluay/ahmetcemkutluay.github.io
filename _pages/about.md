@@ -41,4 +41,6 @@ Discover the sounds of our cosmic neighborhood by listening to the album on Spot
 
 <div align="center">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4AdX5W3WUQ2ASzecS7Dg5F?si=8chxMeHpT9-I1joItOvr_w" width="80%" height="152" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br>
+<a href="https://open.spotify.com/playlist/4AdX5W3WUQ2ASzecS7Dg5F?si=cc91245b06974d5b&pt=796028e13f46dd204a74458f9122ed57" target="_blank">Play on Spotify</a>
 </div>
